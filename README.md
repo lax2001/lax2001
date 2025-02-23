@@ -13,7 +13,7 @@ I have command on Java, Python, C, HTML, CSS, Javascript, Mongodb, WordPress, Sa
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [https://www.linkedin.com/in/laxtangade/](https://www.linkedin.com/in/laxtangade/)
 * 🤝  I'm open to collaborating on Web Development
-* ✉️  Email : laxmikanttangade2001@gmail.com
+* ✉️  Email : [laxmikanttangade2001@gmail.com](laxmikanttangade2001@gmail.com)
 
 <a href="https://x.com/TangadeMayur?s=09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TangadeMayur?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
